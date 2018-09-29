@@ -2,7 +2,7 @@
 title: noel garcía
 description: Hi, this is my site.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: https://noelgarcia.me # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Noel García
@@ -15,6 +15,6 @@ gplus_username: noelandresg
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-126666386-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
