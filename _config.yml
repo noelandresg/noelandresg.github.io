@@ -6,8 +6,8 @@ url: https://noelgarcia.me # the base hostname & protocol for your site e.g. htt
 
 # User settings
 username: Noel García
-user_description: I've been fortunate to live, work and study in different sceneries and met many persons. I worked in small improvised offices, manufacturing facilities, and software development companys. This diverse set of experiences taught me two things 1. How to quickly learn and adapt to new situations and 2. That I love working in small, energized teams that thrive on making 'something out of nothing'..
-user_title: Software Developer
+user_description: ! I've been fortunate to live, work and study in different sceneries and met many persons. <br> I worked in small improvised offices, manufacturing facilities, and software development companys.<br> This diverse set of experiences taught me two things<br> <br>1. How to quickly learn and adapt to new situations and<br> 2. That I love working in small, energized teams that thrive on making 'something out of nothing'..
+user_title: Software Engineer
 email: hi@noelgarcia.me
 twitter_username: noel_garcia
 github_username: noelandresg
